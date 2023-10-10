@@ -1,0 +1,5 @@
+﻿  func-declaration.c
+C:\Project\C\Function_Demo\func-declaration.c(8,2): warning C4013: “f”未定义；假设外部返回 int
+  func-design.c
+  正在生成代码...
+  Function_Demo.vcxproj -> C:\Project\C\Function_Demo\x64\Debug\Function_Demo.exe
