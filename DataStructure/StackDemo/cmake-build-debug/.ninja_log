@@ -1,0 +1,19 @@
+# ninja log v5
+0	99	7203715514725236	CMakeFiles/StackDemo.dir/main.c.obj	d612cfec3cf0131b
+100	218	7203715515885291	StackDemo.exe	7271b013c2e3b30
+2	1554	7204669051477714	CMakeFiles/StackDemo.dir/main.c.obj	d612cfec3cf0131b
+1555	2573	7204669061642099	StackDemo.exe	7271b013c2e3b30
+1	80	7204669529892519	CMakeFiles/StackDemo.dir/main.c.obj	d612cfec3cf0131b
+80	163	7204669530684675	StackDemo.exe	7271b013c2e3b30
+1	81	7204682100527361	CMakeFiles/StackDemo.dir/main.c.obj	d612cfec3cf0131b
+82	166	7204682101342469	StackDemo.exe	7271b013c2e3b30
+1	81	7204682253127167	CMakeFiles/StackDemo.dir/main.c.obj	d612cfec3cf0131b
+82	166	7204682253944159	StackDemo.exe	7271b013c2e3b30
+2	84	7204682568254795	CMakeFiles/StackDemo.dir/main.c.obj	d612cfec3cf0131b
+85	168	7204682569065356	StackDemo.exe	7271b013c2e3b30
+2	86	7204691068355439	CMakeFiles/StackDemo.dir/main.c.obj	d612cfec3cf0131b
+86	174	7204691069209121	StackDemo.exe	7271b013c2e3b30
+2	79	7204691651155146	CMakeFiles/StackDemo.dir/main.c.obj	d612cfec3cf0131b
+79	160	7204691651936332	StackDemo.exe	7271b013c2e3b30
+2	138	7205300127397441	CMakeFiles/StackDemo.dir/main.c.obj	d612cfec3cf0131b
+139	281	7205300128822705	StackDemo.exe	7271b013c2e3b30

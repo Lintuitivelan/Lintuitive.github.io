@@ -1,0 +1,3 @@
+C:/Project/CLionProjects/DynamicArrayDemo/cmake-build-debug/CMakeFiles/DSDemo.dir
+C:/Project/CLionProjects/DynamicArrayDemo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Project/CLionProjects/DynamicArrayDemo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
